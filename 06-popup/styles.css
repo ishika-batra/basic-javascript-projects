@@ -46,7 +46,7 @@ Variables
   --clr-black: #222;
   --ff-primary: 'Roboto', sans-serif;
   --ff-secondary: 'Open Sans', sans-serif;
-  --transition: all 0.3s linear;
+  --transition: all 0.5s linear;
   --spacing: 0.25rem;
   --radius: 0.5rem;
   --light-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
@@ -236,10 +236,11 @@ Modal
   place-items: center;
   position: relative;
   transform: scale(0);
-  transition: 0.5s linear;
+  transition: var(--transition);
 }
 .open-modal .modal-container {
   transform: scale(1);
+  transition: var(--transition);
 }
 
 .close-btn {
@@ -253,6 +254,7 @@ Modal
   cursor: pointer;
   transition: var(--transition);
 }
+
 .close-btn:hover {
   color: var(--clr-red-light);
   transform: scale(1.3);
