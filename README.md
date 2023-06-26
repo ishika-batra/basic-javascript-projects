@@ -34,4 +34,10 @@ Repository Structure:
 
   [LIVE DEMO](https://side-menu-ib.netlify.app)
 
+- Project 6: [Popup](/06-popup/)
+
+  Description: Popup appears when clicked on a button.
+
+  [LIVE DEMO](https://popup-ib.netlify.app/)
+
 Feel free to explore each project's folder in the repository for detailed instructions, code samples, and resources to help you get started. Happy coding and enjoy your journey into JavaScript programming!
