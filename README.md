@@ -40,4 +40,10 @@ Repository Structure:
 
   [LIVE DEMO](https://popup-ib.netlify.app/)
 
+- Project 7: [Q & A](/07-q%26a/)
+
+  Description: a Question and answer section for general queries of user.
+
+  [LIVE DEMO](https://popup-ib.netlify.app/)
+
 Feel free to explore each project's folder in the repository for detailed instructions, code samples, and resources to help you get started. Happy coding and enjoy your journey into JavaScript programming!
