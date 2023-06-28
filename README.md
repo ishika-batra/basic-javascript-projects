@@ -52,4 +52,10 @@ Repository Structure:
 
   [LIVE DEMO](https://food-ctalog-ib.netlify.app/)
 
+- Project 9: [Play Pause](/09-play-pause/)
+
+  Description: A video play in the background of webpage and you can play or pause it.
+
+  [LIVE DEMO](https://play-pause-ib.netlify.app/)
+
 Feel free to explore each project's folder in the repository for detailed instructions, code samples, and resources to help you get started. Happy coding and enjoy your journey into JavaScript programming!
