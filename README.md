@@ -58,4 +58,10 @@ Repository Structure:
 
   [LIVE DEMO](https://play-pause-ib.netlify.app/)
 
+- Project 10: [Scroll](/10-scroll/)
+
+  Description: Setting scrolling function in a webpage.
+
+  [LIVE DEMO](https://scroll-ib.netlify.app/)
+
 Feel free to explore each project's folder in the repository for detailed instructions, code samples, and resources to help you get started. Happy coding and enjoy your journey into JavaScript programming!
