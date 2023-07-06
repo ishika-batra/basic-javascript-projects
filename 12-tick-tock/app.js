@@ -27,18 +27,15 @@ const deadline = document.querySelector('.deadline');
 const items = document.querySelectorAll('.deadline-format h4');
 
 let tempDate = new Date();
-console.log(tempDate);
+
 let tempYear = tempDate.getFullYear();
-console.log(tempYear);
 
 let futureDate = new Date(tempYear, 7, 4, 0, 0, 0);
 // year, month, date, hour, minute, second
-console.log(futureDate);
 
 if (tempDate > futureDate) {
   futureDate = new Date(tempYear + 1, 7, 4, 0, 0, 0);
 }
-console.log(futureDate);
 
 //console.log(futureDate);
 const year = futureDate.getFullYear();
@@ -61,9 +58,11 @@ const futureTime = futureDate.getTime();
 
 function getRemainingTime() {
   const today = new Date().getTime();
-  //console.log(today);
+  // console.log(today);
+  // console.log(new Date(tempDate));
+  // console.log(futureDate);
   const t = futureTime - today;
-  //console.log(t);
+  // console.log(t);
   // 1s=1000ms
   // 1m=60s
   // 1hr=60min
