@@ -64,10 +64,22 @@ Repository Structure:
 
   [LIVE DEMO](https://scroll-ib.netlify.app/)
 
-- Project 10: [Tab Switch](/11-tab-switch/)
+- Project 11: [Tab Switch](/11-tab-switch/)
 
   Description: Switching between different tabs in a webpage.
 
   [LIVE DEMO](https://tab-switch-ib.netlify.app/)
 
-Feel free to explore each project's folder in the repository for detailed instructions, code samples, and resources to help you get started. Happy coding and enjoy your journey into JavaScript programming!
+- Project 12: [Tick-Tock](/12-tick-tock/)
+
+  Description: Countdown to birthday.
+
+  [LIVE DEMO](https://tick-tock-ib.netlify.app/)
+
+- Project 13: [Dummy Text Generator](/13-dummy-text-generator/)
+
+  Description: Generating random paragraphs for dummy text.
+
+  [LIVE DEMO](https://dummy-text-generator-ib.netlify.app/)
+
+  Feel free to explore each project's folder in the repository for detailed instructions, code samples, and resources to help you get started. Happy coding and enjoy your journey into JavaScript programming!
