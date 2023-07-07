@@ -88,4 +88,10 @@ Repository Structure:
 
   [LIVE DEMO](https://grocery-checklist-ib.netlify.app/)
 
+- Project 15: [Slideshow](/15-slideshow/)
+
+  Description: Slideshow working
+
+  [LIVE DEMO](https://slideshow-ib.netlify.app/)
+
   Feel free to explore each project's folder in the repository for detailed instructions, code samples, and resources to help you get started. Happy coding and enjoy your journey into JavaScript programming!
