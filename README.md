@@ -94,4 +94,16 @@ Repository Structure:
 
   [LIVE DEMO](https://slideshow-ib.netlify.app/)
 
-  Feel free to explore each project's folder in the repository for detailed instructions, code samples, and resources to help you get started. Happy coding and enjoy your journey into JavaScript programming!
+- Project 16: [Lame Jokes](/16-lame-jokes/)
+
+  Description: Generates random lame jokes using a API.
+
+  [LIVE DEMO](https://lame-jokes-ib.netlify.app/)
+
+- Project 17: [Furniture catalogue](/17-furniture-catalogue/)
+
+  Description: A furniture catalogue made using API.
+
+  [LIVE DEMO](https://furniture-catalogue-ib.netlify.app/)
+
+Feel free to explore each project's folder in the repository for detailed instructions, code samples, and resources to help you get started. Happy coding and enjoy your journey into JavaScript programming!
