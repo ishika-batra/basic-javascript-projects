@@ -112,4 +112,10 @@ Repository Structure:
 
   [LIVE DEMO](https://random-user-ib.netlify.app/)
 
+- Project 19: [Cocktail Menu](/19-cocktail-menu/)
+
+  Description: A cocktail menu with search option and description of every cocktail and its ingredients.
+
+  [LIVE DEMO](https://cocktail-menu-ib.netlify.app/)
+
 Feel free to explore each project's folder in the repository for detailed instructions, code samples, and resources to help you get started. Happy coding and enjoy your journey into JavaScript programming!
