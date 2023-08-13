@@ -118,4 +118,10 @@ Repository Structure:
 
   [LIVE DEMO](https://cocktail-menu-ib.netlify.app/)
 
+- Project 20: [Image Loading](/20-image-loading/)
+
+  Description: A blurring effect when a website is loaded.
+
+  [LIVE DEMO](https://image-loading-ib.netlify.app/)
+
 Feel free to explore each project's folder in the repository for detailed instructions, code samples, and resources to help you get started. Happy coding and enjoy your journey into JavaScript programming!
