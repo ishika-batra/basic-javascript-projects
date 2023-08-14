@@ -124,4 +124,10 @@ Repository Structure:
 
   [LIVE DEMO](https://image-loading-ib.netlify.app/)
 
+- Project 21: [VertiMove](/21-%20verti-move/)
+
+  Description: A vertical slider made using vanilla javascript.
+
+  [LIVE DEMO](https://vertimove-ib.netlify.app/)
+
 Feel free to explore each project's folder in the repository for detailed instructions, code samples, and resources to help you get started. Happy coding and enjoy your journey into JavaScript programming!
