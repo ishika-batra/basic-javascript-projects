@@ -142,4 +142,10 @@ Repository Structure:
 
   [LIVE DEMO](https://live-profile-selector-ib.netlify.app/)
 
+- Project 24: [Info Load](/24-info-load/)
+
+  Description: Animation added using vanilla javascript before loading of website.
+
+  [LIVE DEMO](https://info-load-ib.netlify.app//)
+
 Feel free to explore each project's folder in the repository for detailed instructions, code samples, and resources to help you get started. Happy coding and enjoy your journey into JavaScript programming!
