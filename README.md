@@ -136,4 +136,10 @@ Repository Structure:
 
   [LIVE DEMO](https://choice-roulette-ib.netlify.app/)
 
+- Project 23: [Live Profile Selector](/23-live-profile-selector/)
+
+  Description: Filter out users by search, made using random user API.
+
+  [LIVE DEMO](https://live-profile-selector-ib.netlify.app/)
+
 Feel free to explore each project's folder in the repository for detailed instructions, code samples, and resources to help you get started. Happy coding and enjoy your journey into JavaScript programming!
